@@ -48,4 +48,7 @@ venv\Scripts\activate     # Windows
 
 pip install -r requirements.txt
 
+<img width="987" height="394" alt="image" src="https://github.com/user-attachments/assets/02e8d0e5-7c34-4edf-adca-ea20327e28f4" />
+
+
 
